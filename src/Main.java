@@ -15,7 +15,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 
 public class Main {
-    public static final String FILEPATH = "C:\\FAMILY\\SHAHRAM_MOKARIAN\\COMPUTER_CONCORDIA\\OTHERS\\FALL2018\\COMP6721\\Mini_Project\\MP3\\";
+    public static final String FILEPATH = "C:\\Users\\NGram_Language_Identification\\";
 
     public static void main(String args[]) {
         BufferedReader br = null;
