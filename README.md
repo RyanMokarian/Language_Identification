@@ -1,6 +1,11 @@
 # Language_Identification
-Probabilistic Unigram and Bigram models to identify language
+Ttile: Probabilistic Unigram and Bigram models to identify language
 
+Category: Machine Learning
+
+Author: Ryan Mokarian
+
+Description:
 /*
     This project builds and experiments with a probabilistic language identification system to identify
     language of a sentence. First, unigram and bigram character-based language models for English, French
