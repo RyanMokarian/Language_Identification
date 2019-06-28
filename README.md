@@ -1,5 +1,5 @@
 # Language_Identification
-Ttile: Probabilistic Unigram and Bigram models to identify language
+Title: Probabilistic Unigram and Bigram models to identify language
 
 Category: Machine Learning
 
